@@ -18,8 +18,8 @@ My name is Joél and I'm a student who loves programming in his freetime. I'm fr
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](javascript:void(0))
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](javascript:void(0))
 [![](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony&logoColor=white)](https://symfony.com/)
@@ -40,4 +40,4 @@ My name is Joél and I'm a student who loves programming in his freetime. I'm fr
 [![](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![](https://img.shields.io/badge/-Cinema_4D-011A6A?style=flat&logo=cinema-4d&logoColor=white)](https://www.maxon.net/en/cinema-4d)
 
-[![DerEyve Stats](https://github-readme-stats.vercel.app/api?username=dereyve&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)](#)
+[![DerEyve Stats](https://github-readme-stats.vercel.app/api?username=dereyve&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)](javascript:void(0))
