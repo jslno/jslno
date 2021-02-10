@@ -40,4 +40,4 @@ My name is Joél and I'm a student who loves programming in his freetime. I'm fr
 [![](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![](https://img.shields.io/badge/-Cinema_4D-011A6A?style=flat&logo=cinema-4d&logoColor=white)](https://www.maxon.net/en/cinema-4d)
 
-[![DerEyve Stats](https://github-readme-stats.vercel.app/api?username=dereyve&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)](javascript:void(0))
+[![DerEyve Stats](https://github-readme-stats.vercel.app/api?username=jslno&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)](javascript:void(0))
