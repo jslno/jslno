@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-My name is Joél and I'm a student who loves programming in his freetime. I'm from Frankfurt am Main in Germany. Feel free to contact me, if you think you need something from me.
-
-#### Social Media
-
-[![Instagram Badge](https://img.shields.io/badge/-@jslno-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j.slno/)
-[![Twitter Badge](https://img.shields.io/badge/-@j__slno-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/j_slno/)
-
 <!--
 #### Organizations
 -->
